@@ -1,2 +1,2 @@
 # InnovativePro
-LLM based program
+LLM based AI entreprise Assistant
